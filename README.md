@@ -16,7 +16,7 @@ The goal of the project is to analize and predict the worldwide spred of COVID-1
 - Jupyter Notebook
 
 ## Results
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@mariateresa.grifa/covid19-global-forecasting-data-visualization-and-time-series-prediction-9705acba5721)
 
 ## Acknowledgements
 The data was hosted on Kaggle, available at [https://www.kaggle.com/c/covid19-global-forecasting-week-2](https://www.kaggle.com/c/covid19-global-forecasting-week-2) 
